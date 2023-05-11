@@ -2,6 +2,8 @@
 
 FFmpeg을 사용하여 Image들을 Video로 변환합니다.
 
+![](./image/capture.PNG)
+
 ## Setup
 
 [Setup](./doc/setup.md)
